@@ -2,7 +2,7 @@
 
 I'm a passionate web and software developer focused on building scalable, efficient, and beautiful applications. I specialize in both front-end and back-end development and am always keen to explore new technologies.
 
-🚀 Currently learning more about Python,Rust, sql improving my skills in javascript, and experimenting with Figma for UI/UX design.
+🚀 Currently learning more about javascript improving my skills in React, and experimenting with Figma for UI/UX design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-boaz-onyango-9b4574343/)
