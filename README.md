@@ -22,7 +22,7 @@ I'm a passionate web and software developer focused on building scalable, effici
 
 ## 🚀 Featured Projects:
 Here are some of the projects I'm most proud of:
-- [Project 1]([https://github.com/BAMMEZ/pulseflowbridge]:created using python fastapi, css tailwail and html and sql database 
+- [Project 1]([https://github.com/BAMMEZ/pulseflowbridge] : created using python fastapi, css tailwail and html and sql database 
 - [Project 2](loading....): 
 
 ## 📧 Contact Info:
